@@ -1,24 +1,15 @@
-# README
+# Ruby on Rails boilerplate example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Requirements:
+```sh
+- ruby
+- rails
+- sqlite3
+```
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Using:
+```sh
+$ git clone https://github.com/sunndeath/ror_skeleton.git && cd ror_skeleton
+$ gem install rails
+$ ./bin/rails server
+```
